@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BE8503</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#585858</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="pieLucid">#be8203</color>
+    <color name="pieNormal">#e4f1fa</color>
+    <color name="pieEmpty">#808080</color>
+    <color name="lineNormal">#e4f1fa</color>
+</resources>

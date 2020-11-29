@@ -1,0 +1,72 @@
+<resources>
+    <string name="journal_title">Dream Journal</string>
+    <string name="statistics_title">Statistics</string>
+    <string name="tutorial_title">Tutorial</string>
+    <string name="settings_title">Settings</string>
+    <string name="about_title">About</string>
+
+    <string name="editor_title_hint">Title</string>
+    <string name="editor_text_hint">Dream Recall</string>
+
+    <string name="lucid">Lucid</string>
+    <string name="non_lucid">Non-Lucid</string>
+    <string name="empty">Empty</string>
+    <string name="distribution">Distribution over weeks</string>
+    <string name="nights">Nights</string>
+
+    <string name="fast_delete">Fast Delete</string>
+    <string name="fast_delete_sum">Enable delete by long click</string>
+
+    <string name="set_to_lucid">Set to lucid</string>
+    <string name="set_to_non_lucid">Set to non-lucid</string>
+    <string name="entry_deleted">Entry deleted</string>
+
+
+    <string name="app_name" translatable="false">LucidityLog</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="jan">January</string>
+    <string name="feb">February</string>
+    <string name="mar">March</string>
+    <string name="apr">April</string>
+    <string name="may">May</string>
+    <string name="jun">June</string>
+    <string name="jul">July</string>
+    <string name="aug">August</string>
+    <string name="sep">September</string>
+    <string name="oct">October</string>
+    <string name="nov">November</string>
+    <string name="dec">December</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Deutsch</item>
+    </string-array>
+
+    <string name="tutorial_header1">Lucid Dream</string>
+    <string name="tutorial_text1">
+        In a lucid dream the dreamer is aware, that they are dreaming. Often the dreamer can gain some control over the dream and actively decide what to dream. Lucid dreaming is a learnable skill. This tutorial shows one way to learn it.
+    </string>
+    <string name="tutorial_header2">Dream Journal</string>
+    <string name="tutorial_text2">
+        Whenever you wake up you immediately write down everything you remember. Don\'t forget little Details. Use the dream journal. Every entry stands for a dream (Sword = Lucid, Moon = Non-Lucid). In the long run this improves your ability to remember your dreams and makes it easier for you to recognize the dream state.
+    </string>
+    <string name="tutorial_header3">Reality Checks</string>
+    <string name="tutorial_text3">
+        Every day you do about 10 to 20 reality checks. However you shouldn\'t plan them beforehand. Instead you should do them spontaniously in the moment. RCs consist of two parts.
+        \n\n1. Ask critical questions (Why am I here? How did I get here? Who are these people? ...). If you can\'t find an answer or they don\'t make any sense, you are probably in a dream.
+        \n\n2. After that comes a physical RC. There are many variations, but a simple one is: Pinch your nose and try to breathe through it. If you can still breathe you are probably in a dream.
+        \n\nAfter two to three weeks, this should have become a habit (Caution: You still have to do it very consciously!). Because of that you will do it in the dream as well.
+    </string>
+    <string name="tutorial_header4">Source and more Information</string>
+    <string name="tutorial_text4">https://www.klartraum-wiki.de/wiki/Hauptseite</string>
+
+    <string name="about_name" translatable="false">LucidityLog</string>
+    <string name="about_dev">Developer: Patrick Behrens</string>
+    <string name="about_frameworks">
+        Used chart drawing framework:
+        \nMPAndroid Chart by Philipp Jahoda
+        \nSoure: https://github.com/PhilJay/MPAndroidChart#creators
+    </string>
+</resources>

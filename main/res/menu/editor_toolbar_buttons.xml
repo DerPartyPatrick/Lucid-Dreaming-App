@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/editor_bin"
+        android:icon="@drawable/bin_icon"
+        android:title="Bin"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/editor_confirm"
+        android:icon="@drawable/confirm_icon"
+        android:title="Confirm"
+        app:showAsAction="always"/>
+</menu>

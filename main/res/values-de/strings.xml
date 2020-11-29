@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jan">Januar</string>
+    <string name="feb">Februar</string>
+    <string name="mar">März</string>
+    <string name="apr">April</string>
+    <string name="may">Mai</string>
+    <string name="jun">Juni</string>
+    <string name="jul">Juli</string>
+    <string name="aug">August</string>
+    <string name="sep">September</string>
+    <string name="oct">Oktober</string>
+    <string name="nov">November</string>
+    <string name="dec">Dezember</string>
+    <string name="journal_title">Traumtagebuch</string>
+    <string name="statistics_title">Statistiken</string>
+    <string name="tutorial_title">Tutorial</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="about_title">Über</string>
+    <string name="editor_title_hint">Titel</string>
+    <string name="editor_text_hint">Traumerinnerung</string>
+    <string name="lucid">Klar</string>
+    <string name="non_lucid">Trüb</string>
+    <string name="distribution">Verteilung über Wochen</string>
+    <string name="empty">Leer</string>
+    <string name="fast_delete">Schnelles Löschen</string>
+    <string name="fast_delete_sum">Aktiviere Löschen durch langes Klicken</string>
+    <string name="set_to_lucid">Klartraum</string>
+    <string name="set_to_non_lucid">Trübtraum</string>
+    <string name="entry_deleted">Eintrag gelöscht</string>
+    <string name="nights">Nächte</string>
+    <string name="tutorial_header1">Klartraum</string>
+    <string name="tutorial_text1">Ein Klartraum ist ein Traum, in dem sich der Träumer darüber im Klaren ist, dass er gerade träumt. Oft kann der Träumer das Traumgeschehen so aktiv beeinflussen. Das Klarträumen ist eine erlernbare Fähigkeit. Dieses Tutorial zeigt einen Weg es zu lernen.</string>
+    <string name="tutorial_header2">Traumtagebuch</string>
+    <string name="tutorial_text2">"Nach jedem Aufwachen schreibst du sofort alles auf, an das du dich erinnerst. Lass dabei nicht das kleinste Detail aus. Nutze dafür das Traumtagebuch. Ein Eintrag steht für einen Traum (Schwert = Klartraum, Mond = Trübtraum [normaler Traum]). Das verbessert auf Dauer die Traumerinnerung und sorgt somit dafür, dass du dich besser und an mehr Träume erinnern kannst und dass es dir leichter fällt den Traum als Traum zu erkennen. "</string>
+    <string name="tutorial_header3">Reality Checks</string>
+    <string name="tutorial_text3">Jeden Tag machst du ungefähr 10 bis 20 Reality Checks. Du solltest diese allerdings nicht vorher planen, sondern spontan im Moment machen. RCs bestehen aus zwei Teilen.
+        \n\n1. Stelle dir Kritischen Fragen (Warum bin ich an diesem Ort? Wie bin ich hierher gekommen? Wer sind diese Leute? ...). Wenn sich keine Antworten finden lassen oder einfach keinen Sinn ergeben, befindest du dich wahrscheinlich im Traum.
+        \n\n2. Mache anschließend einen physischen RC. Es gibt viele Variationen, eine davon ist: Halte dir die Nase zu und versuche zu atmen. Wenn immernoch atmen kannst, bist du wahrscheinlich im Traum.
+        \n\nNach zwei bis drei Wochen, sollten die RCs zur Gewohnheit geworden sein (Achtung: Sie müssen immernoch sehr bewusst ausgeführt werden!). Dadurch wirst du die RCs automatisch auch im Traum machen und so den Traumzustand erkennen.</string>
+    <string name="tutorial_header4">Quelle und weitere Informationen</string>
+    <string name="tutorial_text4">https://www.klartraum-wiki.de/wiki/Hauptseite</string>
+    <string name="about_dev">Entwickler: Patrick Behrens</string>
+    <string name="about_frameworks">Genutztes chart drawing framework:
+        \nMPAndroid Chart von Philipp Jahoda
+        \nSoure: https://github.com/PhilJay/MPAndroidChart#creators</string>
+</resources>

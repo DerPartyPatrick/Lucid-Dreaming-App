@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_journal"
+        android:title="@string/journal_title"
+        android:icon="@drawable/journal_icon"/>
+    <item
+        android:id="@+id/nav_stats"
+        android:title="@string/statistics_title"
+        android:icon="@drawable/stats_icon"/>
+    <item
+        android:id="@+id/nav_tutorial"
+        android:title="@string/tutorial_title"
+        android:icon="@drawable/methods_icon"/>
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/settings_title"
+        android:icon="@drawable/settings_icon"/>
+    <item
+        android:id="@+id/nav_about"
+        android:title="@string/about_title"
+        android:icon="@drawable/about_icon"/>
+</group>
+</menu>
